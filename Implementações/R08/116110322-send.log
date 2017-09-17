@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-26T14:22:21.547-0300</date>
+  <logger>DAVID EDUARDO PEREIRA</logger>
+  <level>FINE</level>
+  <message>File 116110322-DAVID EDUARDO PEREIRA.zip was received. It was sent by DAVID EDUARDO PEREIRA from IP 192.168.1.13</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-26T19:29:21.061-0300</date>
+  <logger>DAVID EDUARDO PEREIRA</logger>
+  <level>FINE</level>
+  <message>File 116110322-DAVID EDUARDO PEREIRA.zip was received. It was sent by DAVID EDUARDO PEREIRA from IP 192.168.1.13</message>
+</record>
